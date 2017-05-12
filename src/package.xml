@@ -33,8 +33,6 @@
         <members>ExpertManageAvailabilityTableBody</members>
         <members>ExpertManageAvailabilityTableHeader</members>
         <members>ExpertManageAvailabilityTableRow</members>
-        <members>ExpertTicketCard</members>
-        <members>ExpertTickets</members>
         <members>LightningEvent</members>
         <members>TableColumnHeader</members>
         <name>AuraDefinitionBundle</name>
