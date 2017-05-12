@@ -7,7 +7,7 @@ FSL is missing a feature - the ability for technician to log their availability 
 
 ### Installation instructions
 
-##### Before you install
+#### Before you install
 
 * This app uses the latest ES6 features. Please make sure your browser is [compatible with them](https://kangax.github.io/compat-table/es6/)
 * Make sure you activate field service lightning in the [setup menu](https://help.salesforce.com/articleView?id=fs_enable.htm)
