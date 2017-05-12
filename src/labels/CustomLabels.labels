@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>API</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>API</shortDescription>
+        <value>API</value>
+    </labels>
+    <labels>
+        <fullName>Applicable_Territory_Only_One_Primary</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Applicable_Territory_Only_One_Primary</shortDescription>
+        <value>There is already another primary service territory for resource.</value>
+    </labels>
+    <labels>
+        <fullName>Applicable_Territory_Territory_Already_Added</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Applicable_Territory_Territory_Already_Added</shortDescription>
+        <value>The service territory has already been added to the service resource.</value>
+    </labels>
+    <labels>
+        <fullName>Cancelled</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cancelled</shortDescription>
+        <value>Cancelled</value>
+    </labels>
+    <labels>
+        <fullName>Expert_AddDefaultSlots</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_AddDefaultSlots</shortDescription>
+        <value>Add Default Slots</value>
+    </labels>
+    <labels>
+        <fullName>Expert_AddSlot</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_AddSlots</shortDescription>
+        <value>Add slot</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Add_Slot</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_AddSlots</shortDescription>
+        <value>Add slot</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Card_City</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_Card_City</shortDescription>
+        <value>City</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Card_Customer</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_Card_Customer</shortDescription>
+        <value>Customer</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Day_Of_Week</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_Day_Of_Week</shortDescription>
+        <value>Day of Week</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Default_slots_added</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert Default slots added</shortDescription>
+        <value>Default slots added</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Default_slots_added_message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert Default slots added message</shortDescription>
+        <value>Do not forget to save! :)</value>
+    </labels>
+    <labels>
+        <fullName>Expert_End_Time</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_End_Time</shortDescription>
+        <value>End Time</value>
+    </labels>
+    <labels>
+        <fullName>Expert_My_Working_Hours</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_My_Working_Hours</shortDescription>
+        <value>My Working Hours</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Save_Slots</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_Save_Slots</shortDescription>
+        <value>Save Slots</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Save_Slots_Success</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_Save_Slots_Success</shortDescription>
+        <value>Slots saved for selected week</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Start_Time</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_Start_Time</shortDescription>
+        <value>Start Time</value>
+    </labels>
+    <labels>
+        <fullName>Expert_This_Week_Selector</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_This_Week_Selector</shortDescription>
+        <value>This Week</value>
+    </labels>
+    <labels>
+        <fullName>Expert_Week_Selected</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_Week_Selected</shortDescription>
+        <value>Week:</value>
+    </labels>
+    <labels>
+        <fullName>Expert_error_user_not_configured</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Expert_error_user_not_configured</shortDescription>
+        <value>User seems not to be configured. Please contact your admin.</value>
+    </labels>
+    <labels>
+        <fullName>Friday</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Friday</shortDescription>
+        <value>Friday</value>
+    </labels>
+    <labels>
+        <fullName>Generic_save_error_title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Generic save error title</shortDescription>
+        <value>Error while saving</value>
+    </labels>
+    <labels>
+        <fullName>Generic_success</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Generic success</shortDescription>
+        <value>Success</value>
+    </labels>
+    <labels>
+        <fullName>Generic_unknown_error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Generic unknown error</shortDescription>
+        <value>Unknown error</value>
+    </labels>
+    <labels>
+        <fullName>Migration_Ticket_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Migration_Ticket_Error</shortDescription>
+        <value>This is a migration ticket, please book appointment after {0}:{1}</value>
+    </labels>
+    <labels>
+        <fullName>Monday</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Monday</shortDescription>
+        <value>Monday</value>
+    </labels>
+    <labels>
+        <fullName>New</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>New</shortDescription>
+        <value>New</value>
+    </labels>
+    <labels>
+        <fullName>No_Slots_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No_Slots_Message</shortDescription>
+        <value>You have not set your availability for the selected week.</value>
+    </labels>
+    <labels>
+        <fullName>No_Slots_Title</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No_Slots_Title</shortDescription>
+        <value>Not slots for selected week</value>
+    </labels>
+    <labels>
+        <fullName>Saturday</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Saturday</shortDescription>
+        <value>Saturday</value>
+    </labels>
+    <labels>
+        <fullName>Sunday</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sunday</shortDescription>
+        <value>Sunday</value>
+    </labels>
+    <labels>
+        <fullName>Thursday</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Thursday</shortDescription>
+        <value>Thursday</value>
+    </labels>
+    <labels>
+        <fullName>Tuesday</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tuesday</shortDescription>
+        <value>Tuesday</value>
+    </labels>
+    <labels>
+        <fullName>Wednesday</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Wednesday</shortDescription>
+        <value>Wednesday</value>
+    </labels>
+</CustomLabels>

@@ -1,0 +1,19 @@
+<aura:component >
+
+  <aura:attribute name='weekNumber' type='String' />
+  <aura:registerEvent name="lightningEvent" type="c:LightningEvent"/>
+
+  <header class='slds-p-vertical--x-small slds-p-horizontal--large slds-shrink-none slds-theme--shade'>
+    <h2 class='slds-text-heading--medium'>{!$Label.c.Expert_My_Working_Hours}</h2>
+    <div class='c-container'>
+      <lightning:layout horizontalAlign='space'>
+        <lightning:layoutItem flexibility='auto' padding='around-medium'>
+          <lightning:button label='{!$Label.c.Expert_This_Week_Selector}' onclick='{!c.selectThisWeek}'/>
+        </lightning:layoutItem>
+        <lightning:layoutItem flexibility='auto' padding='around-small'>
+          <lightning:input aura:id='weekNumber' type='week' label=' ' class='no-label' value='{!v.weekNumber}' onchange='{!c.changeWeek}'/>
+        </lightning:layoutItem>
+      </lightning:layout>
+    </div>
+  </header>
+</aura:component>

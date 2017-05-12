@@ -1,0 +1,13 @@
+<aura:component >
+
+  <aura:attribute name="ticket" type="Object" />
+
+  <lightning:card title="{!v.ticket.title}" iconName="custom:custom19">
+    <div class="slds-p-horizontal--small">
+      <p>{!v.ticket.startDate}</p>
+      <p>{!$Label.c.Expert_Card_Customer}: {!v.ticket.customerFirstName + ' ' + v.ticket.customerLastName}</p>
+      <p>{!$Label.c.Expert_Card_City}: {!v.ticket.city}</p>
+      <lightning:button label="View" onclick="{!c.goToRecord}"/>
+    </div>
+  </lightning:card>
+</aura:component>

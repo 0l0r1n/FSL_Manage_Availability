@@ -1,0 +1,8 @@
+<aura:component >
+
+  <aura:attribute name='slots' type='ExpertManageAvailabilityController.TimeSlotWrapper[]'/>
+
+  <c:ExpertManageAvailabilityTable slots="{!v.slots}"/>
+  <c:ExpertManageAvailabilityButtons />
+
+</aura:component>

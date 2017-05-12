@@ -1,0 +1,22 @@
+{
+    "projectName": "Meetup Ams",
+    "username": "leo@meetup.ams",
+    "id": "6f2e0410-371f-11e7-8dc6-c35c1ab66ee6",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ams-may-dev-ed.my.salesforce.com",
+    "workspace": "/Users/leoalves/Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "CustomLabels",
+        "CustomObject",
+        "FlexiPage",
+        "PermissionSet",
+        "StaticResource"
+    ]
+}

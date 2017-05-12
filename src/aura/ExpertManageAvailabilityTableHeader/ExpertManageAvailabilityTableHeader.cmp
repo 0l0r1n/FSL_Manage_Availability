@@ -1,0 +1,10 @@
+<aura:component >
+  <thead>
+    <tr class="slds-text-title--caps">
+      <c:TableColumnHeader text="{!$Label.c.Expert_Day_Of_Week}"/>
+      <c:TableColumnHeader text="{!$Label.c.Expert_Start_Time}"/>
+      <c:TableColumnHeader text="{!$Label.c.Expert_End_Time}"/>
+      <c:TableColumnHeader text=""/>
+    </tr>
+  </thead>
+</aura:component>

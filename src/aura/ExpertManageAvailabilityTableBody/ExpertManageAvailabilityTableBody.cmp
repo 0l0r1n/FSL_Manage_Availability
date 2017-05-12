@@ -1,0 +1,13 @@
+<aura:component >
+  <aura:attribute name='slots' type='ExpertManageAvailabilityController.TimeSlotWrapper[]'/>
+
+  <tbody>
+    <aura:iteration items="{!v.slots}" var="slot">
+      <c:ExpertManageAvailabilityTableRow DayOfWeek="{!slot.DayOfWeek}"
+        SlotId="{!slot.Id}"
+        StartTime="{!slot.StartTime}"
+        EndTime="{!slot.EndTime}"/>
+    </aura:iteration>
+  </tbody>
+
+</aura:component>

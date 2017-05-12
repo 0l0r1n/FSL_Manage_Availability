@@ -1,0 +1,15 @@
+<aura:component implements='flexipage:availableForAllPageTypes' controller='ExpertManageAvailabilityController'>
+
+  <ltng:require scripts="{!join(',', $Resource.uuid, $Resource.moment)}" afterScriptsLoaded='{!c.doInit}'/>
+
+  <aura:attribute name='weekNumber' type='String'/>
+  <aura:attribute name='slots' type='ExpertManageAvailabilityController.TimeSlotWrapper[]'/>
+  <aura:attribute name='initFinished' type='Boolean'/>
+
+  <aura:handler event='c:LightningEvent' action='{!c.handleEvent}'/>
+  <div class='slds-is-relative'>
+    <lightning:spinner aura:id='spinner' variant="brand" size="medium"/>
+    <c:ExpertManageAvailabilityHeader weekNumber='{!v.weekNumber}' />
+    <c:ExpertManageAvailabilityBody slots='{!v.slots}'/>
+  </div>
+</aura:component>

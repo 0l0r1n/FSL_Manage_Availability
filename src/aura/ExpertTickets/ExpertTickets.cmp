@@ -1,0 +1,10 @@
+<aura:component controller="ExpertTicketsCon" implements="flexipage:availableForAllPageTypes">
+  <aura:attribute name="tickets" type="Object[]"/>
+  <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+
+  <aura:iteration items="{!v.tickets}" var="ticket">
+    <c:ExpertTicketCard ticket='{!ticket}' />
+  </aura:iteration>
+
+</aura:component>

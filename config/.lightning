@@ -1,0 +1,461 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnDSAS"
+        },
+        "Id": "0Ad0Y000000KlnDSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXXSA4",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXXSA4"
+            },
+            "DeveloperName": "ExpertAbsence"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnESAS"
+        },
+        "Id": "0Ad0Y000000KlnESAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXXSA4",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXXSA4"
+            },
+            "DeveloperName": "ExpertAbsence"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnFSAS"
+        },
+        "Id": "0Ad0Y000000KlnFSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXXSA4",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXXSA4"
+            },
+            "DeveloperName": "ExpertAbsence"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnGSAS"
+        },
+        "Id": "0Ad0Y000000KlnGSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXYSA4",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXYSA4"
+            },
+            "DeveloperName": "ExpertTickets"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnHSAS"
+        },
+        "Id": "0Ad0Y000000KlnHSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXYSA4",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXYSA4"
+            },
+            "DeveloperName": "ExpertTickets"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnISAS"
+        },
+        "Id": "0Ad0Y000000KlnISAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXZSA4",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXZSA4"
+            },
+            "DeveloperName": "ExpertManageAvailabilityTableBody"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnJSAS"
+        },
+        "Id": "0Ad0Y000000KlnJSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXaSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXaSAO"
+            },
+            "DeveloperName": "TableColumnHeader"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnKSAS"
+        },
+        "Id": "0Ad0Y000000KlnKSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXbSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXbSAO"
+            },
+            "DeveloperName": "LightningEvent"
+        },
+        "DefType": "EVENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnLSAS"
+        },
+        "Id": "0Ad0Y000000KlnLSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXcSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXcSAO"
+            },
+            "DeveloperName": "ExpertManageAvailability"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnMSAS"
+        },
+        "Id": "0Ad0Y000000KlnMSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXcSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXcSAO"
+            },
+            "DeveloperName": "ExpertManageAvailability"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnNSAS"
+        },
+        "Id": "0Ad0Y000000KlnNSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXcSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXcSAO"
+            },
+            "DeveloperName": "ExpertManageAvailability"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnOSAS"
+        },
+        "Id": "0Ad0Y000000KlnOSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXdSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXdSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityBody"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnPSAS"
+        },
+        "Id": "0Ad0Y000000KlnPSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXeSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXeSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityHeader"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnQSAS"
+        },
+        "Id": "0Ad0Y000000KlnQSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXeSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXeSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityHeader"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnRSAS"
+        },
+        "Id": "0Ad0Y000000KlnRSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXeSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXeSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityHeader"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnSSAS"
+        },
+        "Id": "0Ad0Y000000KlnSSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXfSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXfSAO"
+            },
+            "DeveloperName": "ExpertTicketCard"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnTSAS"
+        },
+        "Id": "0Ad0Y000000KlnTSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXfSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXfSAO"
+            },
+            "DeveloperName": "ExpertTicketCard"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnUSAS"
+        },
+        "Id": "0Ad0Y000000KlnUSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXgSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXgSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityTableRow"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnVSAS"
+        },
+        "Id": "0Ad0Y000000KlnVSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXgSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXgSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityTableRow"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnWSAS"
+        },
+        "Id": "0Ad0Y000000KlnWSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXgSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXgSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityTableRow"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnXSAS"
+        },
+        "Id": "0Ad0Y000000KlnXSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXhSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXhSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityButtons"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnYSAS"
+        },
+        "Id": "0Ad0Y000000KlnYSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXhSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXhSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityButtons"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnZSAS"
+        },
+        "Id": "0Ad0Y000000KlnZSAS",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXiSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXiSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityTable"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnaSAC"
+        },
+        "Id": "0Ad0Y000000KlnaSAC",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXjSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXjSAO"
+            },
+            "DeveloperName": "ExpertManageAvailabilityTableHeader"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlnbSAC"
+        },
+        "Id": "0Ad0Y000000KlnbSAC",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXkSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXkSAO"
+            },
+            "DeveloperName": "ExpertAbsenceRecord"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlncSAC"
+        },
+        "Id": "0Ad0Y000000KlncSAC",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXkSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXkSAO"
+            },
+            "DeveloperName": "ExpertAbsenceRecord"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v39.0/tooling/sobjects/AuraDefinition/0Ad0Y000000KlndSAC"
+        },
+        "Id": "0Ad0Y000000KlndSAC",
+        "AuraDefinitionBundleId": "0Ab0Y000000MVXkSAO",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v39.0/tooling/sobjects/AuraDefinitionBundle/0Ab0Y000000MVXkSAO"
+            },
+            "DeveloperName": "ExpertAbsenceRecord"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    }
+]

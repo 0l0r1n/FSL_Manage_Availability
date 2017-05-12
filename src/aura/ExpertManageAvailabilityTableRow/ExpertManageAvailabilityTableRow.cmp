@@ -1,0 +1,34 @@
+<aura:component >
+
+  <aura:attribute name="DayOfWeek" type="String" />
+  <aura:attribute name="StartTime" type="Time" />
+  <aura:attribute name="EndTime" type="Time" />
+  <aura:attribute name="SlotId" type="String" />
+
+  <aura:registerEvent name="lightningEvent" type="c:LightningEvent"/>
+
+  <tr>
+    <th>
+      <div>
+        <ui:inputSelect aura:id="dayOfWeek" value="{#v.DayOfWeek}" change="{!c.updateSlot}">
+          <ui:inputSelectOption text='{!$Label.c.Monday}' label='{!$Label.c.Monday}'/>
+          <ui:inputSelectOption text='{!$Label.c.Tuesday}' label='{!$Label.c.Tuesday}'/>
+          <ui:inputSelectOption text='{!$Label.c.Wednesday}' label='{!$Label.c.Wednesday}'/>
+          <ui:inputSelectOption text='{!$Label.c.Thursday}' label='{!$Label.c.Thursday}'/>
+          <ui:inputSelectOption text='{!$Label.c.Friday}' label='{!$Label.c.Friday}'/>
+          <ui:inputSelectOption text='{!$Label.c.Saturday}' label='{!$Label.c.Saturday}'/>
+        </ui:inputSelect>
+      </div>
+    </th>
+    <td>
+      <lightning:input aura:id="startTime" type="time" label=" "  name="time" value="{#v.StartTime}" onblur="{!c.updateSlot}" class="no-label"/>
+    </td>
+    <td>
+      <lightning:input aura:id="endTime" type="time" label=" "  name="time" value="{#v.EndTime}" onblur="{!c.updateSlot}" class="no-label"/>
+    </td>
+    <td>
+      <lightning:buttonIcon iconName="utility:close" onclick="{!c.removeSlot}"/>
+    </td>
+  </tr>
+
+</aura:component>

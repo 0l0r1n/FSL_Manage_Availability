@@ -1,0 +1,15 @@
+<aura:component >
+  <aura:registerEvent name='lightningEvent' type='c:LightningEvent'/>
+
+  <lightning:layout horizontalAlign='space'>
+    <lightning:layoutItem flexibility='auto' padding='around-small'>
+      <lightning:buttonGroup >
+        <lightning:button label='{!$Label.c.Expert_AddSlot}' onclick='{!c.addSlot}'/>
+        <lightning:button label='{!$Label.c.Expert_AddDefaultSlots}' onclick='{!c.addDefaultSlots}'/>
+      </lightning:buttonGroup>
+    </lightning:layoutItem>
+    <lightning:layoutItem flexibility='auto' padding='around-small'>
+      <lightning:button label='{!$Label.c.Expert_Save_Slots}' class='slds-button--brand' onclick='{!c.saveSlots}'/>
+    </lightning:layoutItem>
+  </lightning:layout>
+</aura:component>

@@ -1,0 +1,10 @@
+<aura:component >
+
+  <aura:attribute name='slots' type='ExpertManageAvailabilityController.TimeSlotWrapper[]'/>
+
+  <table class="slds-table slds-table--bordered slds-table--cell-buffer">
+    <c:ExpertManageAvailabilityTableHeader />
+    <c:ExpertManageAvailabilityTableBody slots="{!v.slots}"/>
+  </table>
+
+</aura:component>
