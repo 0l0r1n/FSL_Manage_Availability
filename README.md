@@ -15,3 +15,15 @@ FSL is missing a feature - the ability for technician to log their availability 
 #### Setting up users
 
 * Users must be setup as active field resources and have FSL Standard permissions. Please refer to [installation guide](https://help.salesforce.com/articleView?id=fs_set_up.htm) for more instructions on how to setup the basic permissions to get FSL up and running.
+* remove users from territory memberships
+* instead, add users to applicable territories
+
+### Design
+
+- This app takes advantage of the new OperatingHours in Salesforce. OperatingHours indicate the operating hours for a specific territory or territory member. This component adds one operating hours per week per user.
+- Lightning Components are implemented using a redux based architecture where:
+    - There is a single event with a payload and a type
+    - A higher level component (ExpertManageAvailability) is concerned with how things work
+    - All other components are concerned with how things look
+    - Data is passed down
+    - Actions are fired up and cause state mutations
